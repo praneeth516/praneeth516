@@ -42,6 +42,7 @@
 
 <br/>
 <br/>
+<img src="https://camo.githubusercontent.com/308711d8a9e53d43dbb697f414434f8fc963f94f5506d23d248051a149adc9d9/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d30303973686976616e69" alt="009shivani" data-canonical-src="https://github-profile-trophy.vercel.app/?username=praneeth516" style="max-width: 100%;">
 
 ## Connect with me:
 <p align="left">
