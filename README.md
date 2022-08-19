@@ -25,6 +25,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="praneeth516 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=praneeth516&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+- <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" style="max-width: 100%;">
 
 ## 📊 My Github Stats
 
