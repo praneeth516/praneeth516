@@ -34,15 +34,6 @@
   <a href="https://github.com/praneeth516/github-readme-stats"><img alt="praneeth516 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneeth516&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/praneeth516/github-readme-activity-graph"><img alt="praneeth516 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=praneeth516&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 <img src="https://camo.githubusercontent.com/308711d8a9e53d43dbb697f414434f8fc963f94f5506d23d248051a149adc9d9/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d30303973686976616e69" alt="009shivani" data-canonical-src="https://github-profile-trophy.vercel.app/?username=praneeth516" style="max-width: 100%;">
 
 ## Connect with me:
